@@ -1,2 +1,2 @@
-# Collaborative Editing
-Manager: Daniel Vaughn
+# Settlement Management
+Manager: Hasanain Jamal
